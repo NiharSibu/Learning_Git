@@ -1,2 +1,6 @@
 Testing Commits
+<<<<<<< HEAD
 Testing same file commit V2
+=======
+Testing same file commit
+>>>>>>> 7127a6dd0a6935dffe4b5c4c593f5a3fb2b7ec68
